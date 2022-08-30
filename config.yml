@@ -143,7 +143,6 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: Empty Category
     - name: Uncategorized
       untitled: true
 
